@@ -10,7 +10,7 @@
 
 尽管看了上课的ppt，但是对于所说的文件系统的具体结构还不清晰，在参考了韦阳学长的github
 
-$https://github.com/godweiyang/ecnu-oslabs-project5-Defragmentation/$才明白
+https://github.com/godweiyang/ecnu-oslabs-project5-Defragmentation  才明白
 
 所假设的文件系统如下：
 
@@ -63,7 +63,7 @@ struct superblock {
 
 作者：刘金昊
 
-$https://github.com/secrul$
+https://github.com/secrul
 
 
 
